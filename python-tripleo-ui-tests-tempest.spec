@@ -72,3 +72,4 @@ rm -rf %{module}.egg-info
 %changelog
 * Wed Jan 23 2019 Honza Pokorny <honza@redhat.com> 0.0.1
 - First RPM
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/tempest-tripleo-ui/commit/?id=8fb9012a16b1280c1150b1576f54981b50b3edc1
