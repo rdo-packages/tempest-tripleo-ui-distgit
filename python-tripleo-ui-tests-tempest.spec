@@ -27,7 +27,7 @@ Source0:        https://tarballs.openstack.org/%{plugin}/%{plugin}-%{upstream_ve
 
 BuildArch:      noarch
 
-BuildRequires:  git
+BuildRequires:  git-core
 BuildRequires:  openstack-macros
 BuildRequires:  python%{pyver}-devel
 BuildRequires:  python%{pyver}-pbr
